@@ -1,4 +1,3 @@
-
 const textInput = document.querySelector("#validation-input");
 const textInputLenght = textInput.getAttribute("data-length");
 
